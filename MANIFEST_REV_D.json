@@ -1,0 +1,9 @@
+{
+  "project": "IRONBARK COMBAT",
+  "revision": "D",
+  "status": "manufacturing-release draft; engineering sign-off required",
+  "units": "mm",
+  "general_tolerance": "+/-0.5 mm unless otherwise specified",
+  "dxf_count": 13,
+  "weapon_scope": "structural interface only; high-energy weapon fabrication geometry excluded"
+}
