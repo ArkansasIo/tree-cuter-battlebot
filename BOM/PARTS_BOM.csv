@@ -1,0 +1,14 @@
+Part,Description,Qty,Material/System,Nominal Size,Manufacturing/Notes
+C001,Main chassis service plate,1,Structural steel,1000 x 800 x 12 mm,CNC profile; concept
+C010,Front wedge skin,1,Structural/AR steel,900 x 260 x 8 mm,CNC + forming; concept
+C020/C021,Left/right armor panels,2,Steel/aluminum per mass budget,900 x 320 x 6-8 mm,CNC; removable
+C030,Top service panel,1,Aluminum/steel,800 x 600 x 6-8 mm,CNC; removable
+C040/C041,Track guards,2,Steel/aluminum,900 x 180 x 6-8 mm,CNC; removable
+C050,Electronics tray,1,Aluminum/steel,600 x 400 x 6 mm,CNC
+C060,Battery tray,1,Aluminum/steel,500 x 350 x 6 mm,CNC
+C070,Weapon interface plate,1,Structural steel,700 x 400 x 12 mm,Interface only; weapon-specific design excluded
+C080/C081,Motor mounts,2,Structural steel,320 x 240 x 10 mm,CNC; engineer verification
+D001,Tracked drive modules,2,Commercial assembly,TBD,Vendor selection required
+E001,Battery/power system,1,Commercial system,TBD,Current event rules required
+S001,Radio/failsafe system,1,Commercial system,TBD,Competition validation required
+S010,Main isolation and safety system,1,Rated components,TBD,Independent safety review
