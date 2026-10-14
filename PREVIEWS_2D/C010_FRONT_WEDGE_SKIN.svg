@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="-100 -130 1160 520"><rect x="0" y="0" width="900" height="260" fill="none" stroke="#222" stroke-width="3"/><circle cx="60" cy="200" r="6" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="60" cy="60" r="6" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="300" cy="200" r="6" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="300" cy="60" r="6" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="600" cy="200" r="6" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="600" cy="60" r="6" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="840" cy="200" r="6" fill="none" stroke="#222" stroke-width="2"/>
+<circle cx="840" cy="60" r="6" fill="none" stroke="#222" stroke-width="2"/>
+<line x1="450" y1="-30" x2="450" y2="290" stroke="#777" stroke-dasharray="12 8"/><line x1="-30" y1="130" x2="930" y2="130" stroke="#777" stroke-dasharray="12 8"/><text x="0" y="-80" font-size="22">C010 FRONT WEDGE SKIN</text><text x="450" y="315" text-anchor="middle" font-size="18">900 mm</text><text x="935" y="130" font-size="18">260 mm</text><text x="0" y="360" font-size="14">MATERIAL: AR400/AR450 or approved equivalent | THICKNESS: 8 mm | REV D DRAFT</text></svg>
